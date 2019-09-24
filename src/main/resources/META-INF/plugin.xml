@@ -17,6 +17,13 @@
   </extensions>
 
   <actions>
-    <!-- Add your actions here -->
+    <action
+      id="EditorActions.DemoAction"
+      class="io.github.alexengrig.jtor.intellij.plugin.DemoAction"
+      text="Editor Demo Action"
+      description="Perform the demo action."
+    >
+      <add-to-group group-id="EditorPopupMenu" anchor="first"/>
+    </action>
   </actions>
 </idea-plugin>
