@@ -24,6 +24,7 @@
       description="Perform the demo action."
     >
       <add-to-group group-id="EditorPopupMenu" anchor="first"/>
+      <keyboard-shortcut keymap="$default" first-keystroke="alt G"/>
     </action>
   </actions>
 </idea-plugin>
