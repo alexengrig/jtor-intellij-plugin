@@ -1,4 +1,4 @@
-# jtor-intellij-plugin [![GitHub](https://img.shields.io/github/license/alexengrig/jtor-intellij-plugin?style=flat&&color=informational "license")](LICENSE)
+# ⛰️ jtor-intellij-plugin [![GitHub](https://img.shields.io/github/license/alexengrig/jtor-intellij-plugin?style=flat&&color=informational "license")](LICENSE)
 
 The code generator for ItelliJ IDEA.
 
