@@ -2,7 +2,7 @@
 
 The code generator for ItelliJ IDEA.
 
-`Alt + J` + generator = JeneraTOR ≈ JTor.
+`Alt + J` + `Alt + G` (generator) = JeneraTOR ≈ JTor.
 
 ## License
 
