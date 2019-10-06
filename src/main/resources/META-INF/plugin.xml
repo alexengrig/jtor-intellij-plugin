@@ -18,7 +18,7 @@
 
   <actions>
     <action
-      id="EditorActions.DemoAction"
+      id="JTor.DemoAction"
       class="io.github.alexengrig.jtor.intellij.plugin.DemoAction"
       text="Editor Demo Action"
       description="Perform the demo action."
